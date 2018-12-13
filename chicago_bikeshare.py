@@ -214,7 +214,7 @@ print("male + female == len(data_list):", male + female == len(data_list))
 
 gender_null = len(data_list) - male + female
 
-answer = "Because there are users that didn't choose either male or female. To be exact, {} users didn't chose any of those options".format(gender_null)
+answer = "Because there are users that didn't choose either male or female. To be exact, {} users didn't choose any of those options".format(gender_null)
 print("Answer:", answer)
 
 # ------------ DO NOT CHANGE ANY CODE HERE ------------
